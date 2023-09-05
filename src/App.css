@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@560&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Average+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&display=swap');
+#m
+{
+  font-size: 4rem;
+  letter-spacing: 0.5rem;
+  color: #222222;
+  transition: all 0.2s ease-in-out;
+  font-family: 'Aboreto', cursive;
+}
+#p
+{
+  font-size: 1.75rem;
+  letter-spacing: 0.25rem;
+  color: #222222;
+  font-family: 'Aboreto', cursive;
+}
+#d
+{
+  font-size: 6.75rem;
+  letter-spacing: 0.25rem;
+  color: #222222;
+  transition: all 0.2s ease-in-out;
+  font-family: 'Aboreto', cursive;
+  font-weight:900;
+}
+#o{
+  font-size: 1.75rem;
+  letter-spacing: 0.25rem;
+  color: #222222;
+  font-family: 'Aboreto', cursive;
+}
+#top1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #mm{
+    font-size: 1.2rem;
+    color: #F11A7B;
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Dosis', sans-serif;
+  }
+  #hh{
+    background-color: #35A29F;
+    margin-right: 2vw;
+  }
+  #so{
+    background-color: #F11A7B;
+  }
+  #fg{
+    /* font-family: 'Dosis', sans-serif; */
+    font-family: 'Average Sans', sans-serif;
+  }
+  .lk{
+    text-align: center;
+    font-family: 'Aboreto', cursive;
+    font-size: larger;
+    margin-top: 3.5vh;
+    margin-left: 6vw;
+  }
+  .id{
+    color: #F11A7B;
+  }
+  .cdd{
+    font-family: 'EB Garamond', serif;
+    font-weight: 200;
+    font-size: large;
+} 
+  #btt{
+       font-family: 'Aboreto', cursive;
+    height: 5vh; 
+  }
+  #but{
+    font-family: 'Aboreto', cursive;
+  }
+  #ytt{
+    font-family: 'Average Sans', sans-serif;
+  }
+  .uio{
+    color: #F11A7B;
+  }
+  #fgg{
+    font-family: 'EB Garamond', serif;
+  }
+  #pol{
+    font-family: 'Aboreto', cursive;
+    font-weight: 600;
+  }
+  .names,.ui{
+    font-family: 'Ibarra Real Nova', serif;
+    text-align: center;
+  }
+  .kkl{
+    font-family: 'Aboreto', cursive;
+    font-size: larger;
+    font-weight: 200;
+  }
+  link{
+    text-decoration: none;
+  }
+  #coll{
+    color: #F11A7B;
+  }
+  #mmm{
+    color: #35A29F;
+    font-family: 'Aboreto', cursive;
+  }
