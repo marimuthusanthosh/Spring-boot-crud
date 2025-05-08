@@ -1,4 +1,4 @@
-📁 README Highlights to Include
+## 📁 README Highlights to Include
 You can also add these sections in your README.md to make it easier for others:
 
 ✅ Features:
